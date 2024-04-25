@@ -99,7 +99,7 @@ print(f'Ci sono in totale {len(bboxes_test)} file di annotazioni per il test')
 print(f'Ci sono in totale {len(bboxes_val)} file di annotazioni per il validation')
 
 
-directory = 'Images'
+directory = 'Images_Positive'
 
 images = []
 for root,dirs,files in os.walk(directory):
