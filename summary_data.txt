@@ -1,8 +1,8 @@
-Campioni per il train: 95665
-Campioni di test: 37828
-Campioni di validazione: 28681
-Campioni positivi: 86996
-Campioni negativi: 75178
-Suddivisione train: 45845 elementi di classe 0, 49820 elementi di classe 1
-Suddivisione test: 20320 elementi di classe 0, 17508 elementi di classe 1
-Suddivisione: 9013 elementi di classe 0, 19668 elementi di classe 1
+Campioni per il train: 72264
+Campioni di test: 13099
+Campioni di validazione: 25772
+Campioni positivi: 55331
+Campioni negativi: 55804
+Suddivisione train: 40538 elementi di classe 0, 31726 elementi di classe 1
+Suddivisione test: 9162 elementi di classe 0, 3937 elementi di classe 1
+Suddivisione: 6104 elementi di classe 0, 19668 elementi di classe 1
